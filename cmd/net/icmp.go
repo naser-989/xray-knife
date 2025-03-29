@@ -3,14 +3,14 @@ package net
 import (
 	"bufio"
 	"fmt"
-	"github.com/lilendian0x00/xray-knife/v2/pkg"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/protocol"
+	"github.com/naser-989/xray-knife/v3/pkg"
+	"github.com/naser-989/xray-knife/v3/pkg/protocol"
 	"net"
 	"os"
 	"strings"
 
-	"github.com/lilendian0x00/xray-knife/v2/network"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/xray"
+	"github.com/naser-989/xray-knife/v3/network"
+	"github.com/naser-989/xray-knife/v3/pkg/xray"
 	"github.com/spf13/cobra"
 )
 

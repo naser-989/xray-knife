@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/lilendian0x00/xray-knife/v2/utils/customlog"
+	"github.com/naser-989/xray-knife/v3/utils/customlog"
 )
 
 func Base64Decode(b64 string) ([]byte, error) {

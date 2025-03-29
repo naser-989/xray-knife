@@ -1,9 +1,9 @@
 package pkg
 
 import (
-	"github.com/lilendian0x00/xray-knife/v2/pkg/protocol"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/singbox"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/xray"
+	"github.com/naser-989/xray-knife/v3/pkg/protocol"
+	"github.com/naser-989/xray-knife/v3/pkg/singbox"
+	"github.com/naser-989/xray-knife/v3/pkg/xray"
 	"net/http"
 	"time"
 )

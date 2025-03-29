@@ -1,12 +1,12 @@
 package net
 
 import (
-	"github.com/lilendian0x00/xray-knife/v2/pkg/xray"
+	"github.com/naser-989/xray-knife/v3/pkg/xray"
 	"net"
 	"os"
 	"time"
 
-	"github.com/lilendian0x00/xray-knife/v2/utils/customlog"
+	"github.com/naser-989/xray-knife/v3/utils/customlog"
 
 	"github.com/spf13/cobra"
 )

@@ -3,10 +3,10 @@ package proxy
 import (
 	"bufio"
 	"fmt"
-	"github.com/lilendian0x00/xray-knife/v2/pkg"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/protocol"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/singbox"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/xray"
+	"github.com/naser-989/xray-knife/v3/pkg"
+	"github.com/naser-989/xray-knife/v3/pkg/protocol"
+	"github.com/naser-989/xray-knife/v3/pkg/singbox"
+	"github.com/naser-989/xray-knife/v3/pkg/xray"
 	"log"
 	"math/rand"
 	"os"
@@ -16,9 +16,9 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/lilendian0x00/xray-knife/v2/cmd/net"
-	"github.com/lilendian0x00/xray-knife/v2/utils"
-	"github.com/lilendian0x00/xray-knife/v2/utils/customlog"
+	"github.com/naser-989/xray-knife/v3/cmd/net"
+	"github.com/naser-989/xray-knife/v3/utils"
+	"github.com/naser-989/xray-knife/v3/utils/customlog"
 	"github.com/spf13/cobra"
 )
 

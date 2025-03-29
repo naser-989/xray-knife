@@ -3,8 +3,8 @@ package parse
 import (
 	"bufio"
 	"fmt"
-	"github.com/lilendian0x00/xray-knife/v2/pkg"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/protocol"
+	"github.com/naser-989/xray-knife/v3/pkg"
+	"github.com/naser-989/xray-knife/v3/pkg/protocol"
 	"log"
 	"net/url"
 	"os"
@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/lilendian0x00/xray-knife/v2/utils"
+	"github.com/naser-989/xray-knife/v3/utils"
 	"github.com/spf13/cobra"
 )
 

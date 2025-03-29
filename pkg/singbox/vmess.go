@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/protocol"
+	"github.com/naser-989/xray-knife/v3/pkg/protocol"
 	"github.com/sagernet/sing-box/adapter"
 	"github.com/sagernet/sing-box/option"
 	"github.com/sagernet/sing-box/outbound"
@@ -17,7 +17,7 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/lilendian0x00/xray-knife/v2/utils"
+	"github.com/naser-989/xray-knife/v3/utils"
 )
 
 func NewVmess(link string) Protocol {

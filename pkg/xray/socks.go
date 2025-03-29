@@ -3,7 +3,7 @@ package xray
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/lilendian0x00/xray-knife/v2/pkg/protocol"
+	"github.com/naser-989/xray-knife/v3/pkg/protocol"
 	"log"
 	"net"
 	"net/url"
@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/lilendian0x00/xray-knife/v2/utils"
+	"github.com/naser-989/xray-knife/v3/utils"
 	net2 "github.com/xtls/xray-core/common/net"
 	"github.com/xtls/xray-core/infra/conf"
 )

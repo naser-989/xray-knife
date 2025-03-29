@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/lilendian0x00/xray-knife/v2/utils"
-	"github.com/lilendian0x00/xray-knife/v2/utils/customlog"
+	"github.com/naser-989/xray-knife/v3/utils"
+	"github.com/naser-989/xray-knife/v3/utils/customlog"
 )
 
 // TODO: Make a database to store subscriptions
